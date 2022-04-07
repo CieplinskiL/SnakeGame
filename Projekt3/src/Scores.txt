@@ -1,0 +1,12 @@
+Ala:   1000   pkt
+Tomek:  3000   pkt
+Daniel:   2700   pkt
+Ola:   1200   pkt
+Marek:   789   pkt
+Adrian:  4000   pkt
+Monika:  3110   pkt
+aa:  540   pkt
+Nova:  926   pkt
+test:  429   pkt
+ffff:  2032   pkt
+ggg:  833   pkt
